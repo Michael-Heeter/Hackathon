@@ -1,6 +1,7 @@
 const aChart = document.getElementById('myChart').getContext('2d');
 
 
+
 const data = {
   labels: ['Japan', 'Ukraine', 'Germany', 'UK','Italy','France','Brazil','Russia','China','USA'].reverse(),
   datasets: [{
